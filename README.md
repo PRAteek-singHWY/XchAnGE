@@ -5,14 +5,17 @@
 
 
 ### Home Screen
-![home-screenshot-mac-2x-v2](https://github.com/user-attachments/assets/cc004977-48d8-4c24-a2db-8166e1525a4b)
+
+![Home](https://github.com/user-attachments/assets/3f5a43ea-e0e7-4ea1-b0bd-0e414dcd4b7a)
 
 
 ### Conversion Result
-![CONVERSION](https://github.com/user-attachments/assets/40169c5e-9a7a-4a0b-80aa-52e12b832537)
+![CONVERSION](https://github.com/user-attachments/assets/498c820d-f8bb-4b49-8117-ec243e902a17)
+
 
 ### Last Conversion
-![Last Conversion](https://github.com/user-attachments/assets/a83f5fc8-3242-4b01-b458-d7f1f8241667)
+![Last Conversion](https://github.com/user-attachments/assets/03a3f7f4-6b7c-403c-acd0-80e405baad4b)
+
 
 
 
