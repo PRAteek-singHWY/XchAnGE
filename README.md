@@ -1,3 +1,23 @@
+
+
+## Screenshots
+
+### Home Screen
+![Home Screen](![Home](https://github.com/user-attachments/assets/d8564ac7-b07d-4da5-9978-163580212597)
+)
+
+### Conversion Result
+![Conversion Result](![CONVERSION](https://github.com/user-attachments/assets/03646e8e-85df-4c10-9b55-72f6806a17cc)
+)
+
+### Last Conversion
+![CLast conversion Record](![Last Conversion](https://github.com/user-attachments/assets/acfc0224-76c8-4d94-b79a-3c3faa5c73ff)
+)
+
+
+
+
+
 # Currency Converter App
 
 This is a Currency Converter App built with **React Native** and **Expo**. The app enables users to convert between different currencies using live exchange rates.
@@ -98,3 +118,8 @@ This is a Currency Converter App built with **React Native** and **Expo**. The a
 ## Join the Community
 - **Expo GitHub**: Contribute to the platform.
 - **Expo Discord**: Ask questions and interact with the community.
+
+
+
+
+
