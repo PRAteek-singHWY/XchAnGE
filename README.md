@@ -5,18 +5,14 @@
 
 
 ### Home Screen
-![Home Screen](![Home Screen](![home-screenshot-mac-2x-v2](https://github.com/user-attachments/assets/977512ad-d987-4f10-bc33-7134c16d73b7)
-)
-))
+![home-screenshot-mac-2x-v2](https://github.com/user-attachments/assets/cc004977-48d8-4c24-a2db-8166e1525a4b)
+
 
 ### Conversion Result
-![Conversion Result](![Conversion Result](![CONVERSION](https://github.com/user-attachments/assets/9cb38072-d6ba-46f3-9e62-d092c9941f0d)
-)
-))
+![CONVERSION](https://github.com/user-attachments/assets/40169c5e-9a7a-4a0b-80aa-52e12b832537)
 
 ### Last Conversion
-![CLast conversion Record](![Last Conversion](https://github.com/user-attachments/assets/acfc0224-76c8-4d94-b79a-3c3faa5c73ff)
-))
+![Last Conversion](https://github.com/user-attachments/assets/a83f5fc8-3242-4b01-b458-d7f1f8241667)
 
 
 
